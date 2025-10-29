@@ -5,4 +5,5 @@ export default defineConfig({
   plugins: [
     tailwindcss(),
   ],
+   base: '/client-e-shops/' // The subdirectory where your app will be hosted
 })
